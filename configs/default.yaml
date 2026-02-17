@@ -1,0 +1,7 @@
+cohort: TCGA-HNSC
+test_size: 0.3
+random_state: 42
+t0_days: 730
+n_boot: 200
+
+
